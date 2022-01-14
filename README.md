@@ -9,9 +9,14 @@ From my point of view, I will use the if-else statement to do this exercise. The
 Pseudo code:
 
 for (variable iterator equals to zero, iterator less than equal 100, add on the iterator) {
+
 if (iterator dividing by the given number is equal to zero) {
+
     console.log //print out ("Fizz");
+    
 else if (iterator dividing by the given numbers are equal to zero) {
+
     console.log //print out ("FizzBuzz");
 }
+
 }
